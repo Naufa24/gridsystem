@@ -29,7 +29,7 @@ body {
 
 .hero {
   grid-area: hero;
-  min-height: 300px;
+  min-height: 350px;
   background-image: url(escampur.jpg);
   background-size: cover;
   background-position: center;
@@ -209,7 +209,7 @@ body {
   .hero > * {
     display: block;
     background-color: black;
-    color: gold;
+    color: whitesmoke;
     padding: 5px;
     margin-bottom: 5px;
   }
